@@ -8,5 +8,5 @@ En este repositorio encontrarás las prácticas realizadas durante el curso de c
 **Requisitos**
 - Cuenta en [Azure](https://azure.microsoft.com/es-mx/free/students/).
 - Computadora con Windows, Linux o MacOS.
-- Editor de texto como  [Visual Studio Code](https://code.visualstudio.com/).
+
 --------------------------------------------------------------------------
