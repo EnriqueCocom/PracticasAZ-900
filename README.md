@@ -11,4 +11,4 @@ En este repositorio encontrarás las prácticas realizadas durante el curso de c
 
 
 --------------------------------------------------------------------------
-**Autor: Enrique Cocom Canul**
+**Autor: Enrique Cocom Canul 👨‍💻🧙‍♂️**
