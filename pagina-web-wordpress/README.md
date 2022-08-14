@@ -10,7 +10,7 @@ En este repositorio aprenderas a crear una Página web con Azure y WordPress.
 - Computadora con Window, Linux o MacOS.
 - Cuenta de [Azure](https://azure.microsoft.com/es-mx/) Gratis o de Pago.
 
-**Autor: Enrique Cocom Canul**
+**Autor: Enrique Cocom Canul 👨‍💻🧙‍♂️**
 ------------------------------------------------------------------------------------------
 En este ejercicio conoceremos la plataforma de Azure, les explicare los pasos para crear una página web usando las herramientas que nos ofrece Azure.
 
