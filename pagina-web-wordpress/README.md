@@ -70,28 +70,28 @@ Paso 10.- Procederemos a darle clic en Revisar y crear,  si todo está bien se d
 
 - Si todo salio bien al momento de darle en crear nos debe de aparecer de esta forma.
 
-![](https://github.com/EnriqueCocom/creacion-pagina-web1/blob/main/Imagenes/paso11.2.png)
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/pagina-web-wordpress/Imagenes/paso11.2.png)
 
 - Cuando se termine el proceso se verá así.
 
-![](https://github.com/EnriqueCocom/creacion-pagina-web1/blob/main/Imagenes/paso12.png)
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/pagina-web-wordpress/Imagenes/paso12.png)
 
 - Si no se marco ningún error le daremos  clic en ir al recurso y se vera de esta forma, para validar el funcionamiento de la página web que hemos creado le damos un clic a la URL y nos abrirá otra ventana.
 
-![](https://github.com/EnriqueCocom/creacion-pagina-web1/blob/main/Imagenes/paso13.png)
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/pagina-web-wordpress/Imagenes/paso13.png)
 
-![](https://github.com/EnriqueCocom/creacion-pagina-web1/blob/main/Imagenes/paso14.png)
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/pagina-web-wordpress/Imagenes/paso14.png)
 
  :star: :star: :star: Si al entrar en la URL, se ve como la imagen entonces quiere decir que todo fue un éxito. :star: :star: :star:
 
 Paso 11.- Configuraremos un administrador de la página y luego le daremos clic en instalar WordPress.
 
-![](https://github.com/EnriqueCocom/creacion-pagina-web1/blob/main/Imagenes/paso15.png)
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/pagina-web-wordpress/Imagenes/paso15.png)
 
 - Una vez instalado debe ver como la siguiente imagen y le daremos clic en Acceder.
 
-![](https://github.com/EnriqueCocom/creacion-pagina-web1/blob/main/Imagenes/paso16.png)
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/pagina-web-wordpress/Imagenes/paso16.png)
 
 :clap: :clap: Felicidades acabas de crear tu primera página web. :clap: :clap: 
 
-![](https://github.com/EnriqueCocom/creacion-pagina-web1/blob/main/Imagenes/paso17.png)
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/pagina-web-wordpress/Imagenes/paso17.png)
