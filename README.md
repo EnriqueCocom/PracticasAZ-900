@@ -9,4 +9,6 @@ En este repositorio encontrarás las prácticas realizadas durante el curso de c
 - Cuenta en [Azure](https://azure.microsoft.com/es-mx/free/students/).
 - Computadora con Windows, Linux o MacOS.
 
+
 --------------------------------------------------------------------------
+**Autor: Enrique Cocom Canul**
