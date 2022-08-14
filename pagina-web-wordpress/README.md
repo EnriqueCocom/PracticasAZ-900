@@ -7,16 +7,16 @@ En este repositorio aprenderas a crear una Página web con Azure y WordPress.
 
 **Requisitos**
 
-- Computadora con Window, Linux.
-- Cuenta de Azure (Gratis o de Pago).
-- Editor de Texto como [Visual Studio Code](https://code.visualstudio.com/).
+- Computadora con Window, Linux o MacOS.
+- Cuenta de [Azure](https://azure.microsoft.com/es-mx/) Gratis o de Pago.
+
 
 ------------------------------------------------------------------------------------------
 En este ejercicio conoceremos la plataforma de Azure, les explicare los pasos para crear una página web usando las herramientas que nos ofrece Azure.
 
-Paso 1.- Crear una cuenta en la página de [Azure](https://portal.azure.com/).
+Paso 1.- Entrar a [Portal Azure](https://portal.azure.com/).
 
-Paso 2.- Una vez registrado iniciamos sesión.
+Paso 2.- Procederemos a iniciar sesión.
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/pagina-web-wordpress/Imagenes/paso1.1.png)
 
