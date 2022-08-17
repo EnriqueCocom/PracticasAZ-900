@@ -41,3 +41,9 @@ Paso 2.- Crear un recurso de Azure Machine Learning.
 Paso 3.- Seleccionaremos Revisar y Crear.
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso3.png)
+
+- Esperamos que se cree el recurso.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso3.1.png)
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso3.2.png)
