@@ -46,4 +46,17 @@ Paso 3.- Seleccionaremos Revisar y Crear.
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso3.1.png)
 
+
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso3.2.png)
+
+- Le damos clic en ir al recurso y observamos que ya ha sido creado.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso3.3.png)
+
+Paso 4.- Entrar a la página de [Azure Machine Learning](https://ml.azure.com/home).
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso4.png)
+
+- Observamos que aparece el area de trabajo que creamos previamente, le daremos clic en ir al area de trabajo
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso4.png?raw=true)
