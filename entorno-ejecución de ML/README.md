@@ -1,7 +1,7 @@
 # Como hacer un entorno de ejecución de Azure Machine Learning dentro de Azure.
 -----------------------------
 
-![Logo de Azure Machine Learning]()
+![Logo de Azure Machine Learning](imagenes/azure.png)
 
 
 **Requisitos**
@@ -22,7 +22,7 @@
 **Autor: Enrique Cocom Canul 👨‍💻🧙‍♂️**
 ------------------------------------------------------------------------------------------
 
-En este ejercicio conoceremos la plataforma de Azure, les explicare los pasos para crear una página web usando las herramientas que nos ofrece Azure.
+En este ejercicio conoceremos la plataforma de Azure Machine Learning , explicare los pasos para crear un entorno de ejecución usando las herramientas que nos ofrece Azure.
 
 Paso 1.- Entrar a [Portal Azure](https://portal.azure.com/).
 
