@@ -18,5 +18,12 @@
 <a href="https://www.twitch.tv/enriquecocom04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/twitch.svg" alt="Enrique Cocom#9331" height="30" width="40" /></a> 
 </p>
 
---------------------------------------------------------------------------
+
 **Autor: Enrique Cocom Canul 👨‍💻🧙‍♂️**
+------------------------------------------------------------------------------------------
+
+En este ejercicio conoceremos la plataforma de Azure, les explicare los pasos para crear una página web usando las herramientas que nos ofrece Azure.
+
+Paso 1.- Entrar a [Portal Azure](https://portal.azure.com/).
+
+Paso 2.- Procederemos a iniciar sesión.
