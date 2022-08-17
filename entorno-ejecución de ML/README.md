@@ -1,5 +1,4 @@
 # Como hacer un entorno de ejecución de Azure Machine Learning dentro de Azure.
------------------------------
 
 ![Logo de Microsoft Azure](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/azure.png)
 
