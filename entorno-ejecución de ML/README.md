@@ -24,4 +24,6 @@ En este ejercicio conoceremos la plataforma de Azure Machine Learning , explicar
 
 Paso 1.- Entrar a [Portal Azure](https://portal.azure.com/).
 
-Paso 2.- Procederemos a iniciar sesión.
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/azureportal.png)
+
+Paso 2.- 
