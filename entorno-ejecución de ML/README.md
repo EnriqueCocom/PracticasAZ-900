@@ -4,7 +4,7 @@
 ![Logo de Azure Machine Learning](imagenes/azure.png)
 
 **Requisitos**
-- Cuenta en [Azure](https://azure.microsoft.com/es-mx/free/students/).
+- Cuenta de [Azure](https://azure.microsoft.com/es-mx/free/students/).
 - Entrar en [Azure Machine Learning](https://ml.azure.com/home).
 - Computadora con Windows, Linux o MacOS.
 
