@@ -26,4 +26,6 @@ Paso 1.- Entrar a [Portal Azure](https://portal.azure.com/).
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/azureportal.png)
 
-Paso 2.- 
+Paso 2.- Crear un recurso de Azure Machine Learning.
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso1.png)
+
