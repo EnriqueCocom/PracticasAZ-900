@@ -29,3 +29,8 @@ Paso 1.- Entrar a [Portal Azure](https://portal.azure.com/).
 Paso 2.- Crear un recurso de Azure Machine Learning.
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso1.png)
 
+- Le daremos clic en crear.
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso1.1.png)
+
+- Lo mínimo que necesita un recurso para funcionar es Suscripción, Grupo de recursos, Región y Nombre.
+![]()
