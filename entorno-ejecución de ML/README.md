@@ -1,6 +1,6 @@
 # Como hacer un entorno de ejecución de Azure Machine Learning dentro de Azure.
 
-![Logo de Microsoft Azure](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/azure.png)
+![Logo de Microsoft Azure](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/azure.png?raw=true)
 
 **Requisitos**
 - Cuenta de [Azure](https://azure.microsoft.com/es-mx/free/students/).
@@ -24,16 +24,20 @@ En este ejercicio conoceremos la plataforma de Azure Machine Learning , explicar
 
 Paso 1.- Entrar a [Portal Azure](https://portal.azure.com/).
 
-![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/azureportal.png)
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/azureportal.png?raw=true)
 
 Paso 2.- Crear un recurso de Azure Machine Learning.
 
-![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso1.png)
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso1.png?raw=true)
 
 - Le daremos clic en crear.
 
-![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso1.1.png)
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso1.1.png?raw=true)
 
-Lo mínimo que necesita un recurso para funcionar es Suscripción, Grupo de recursos, Región y Nombre.
+- Lo mínimo que necesita un recurso para funcionar es Suscripción, Grupo de recursos, Región y Nombre.
 
-![]()
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso2.png?raw=true)
+
+Paso 3.- Seleccionaremos Revisar y Crear.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso3.png?raw=true)
