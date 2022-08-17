@@ -58,7 +58,7 @@ Paso 8.- Llenamos los campos obligatorios.
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/pagina-web-wordpress/Imagenes/paso9.png)
 
-Paso 9.- Una vez llenado los campos, procederemos a darle clic en Etiquetas y le asignamos un nombre y un valor.
+Paso 9.- Llene los campos, procederemos a darle clic en Etiquetas y le asignamos un nombre y un valor.
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/pagina-web-wordpress/Imagenes/paso10.png)
 
