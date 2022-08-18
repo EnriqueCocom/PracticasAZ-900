@@ -55,7 +55,12 @@ Paso 3.- Seleccionaremos Revisar y Crear.
 
 Paso 4.- Entrar a la página de [Azure Machine Learning](https://ml.azure.com/home).
 
-- Observamos que aparece el area de trabajo que creamos previamente, le daremos clic en ir al area de trabajo
+- Observamos que aparece el area de trabajo que creamos previamente, le daremos clic en ir al área de trabajo.
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso4.png)
 
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso4.1.png)
+
+Paso 5.- Procederemos a crear una instancia de trabajo.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso5.png)
