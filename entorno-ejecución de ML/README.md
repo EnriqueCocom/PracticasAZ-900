@@ -140,3 +140,10 @@ Paso 12.- Añadimos más código al archivo.
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso12.1.png)
 
+
+- Actualizamos el archivo en la nube y observamos que automaticamente se visualiza el código añadido desde Visual Studio Code.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso13.png)
+
+
+✨✨✨ Felicidades completamos la práctica. ✨✨✨
