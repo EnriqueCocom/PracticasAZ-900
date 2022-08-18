@@ -64,3 +64,7 @@ Paso 4.- Entrar a la página de [Azure Machine Learning](https://ml.azure.com/ho
 Paso 5.- Procederemos a crear una instancia de trabajo.
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso5.png)
+
+Paso 6.-
+
+![]()
