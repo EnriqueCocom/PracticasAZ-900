@@ -105,3 +105,5 @@ Paso 9.- Observamos que se ha creado un archivo de Python.
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso9.3.png)
 
+Paso 10.- Para visualizar el código desde Visual Studio Code.
+
