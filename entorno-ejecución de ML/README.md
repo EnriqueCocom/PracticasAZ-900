@@ -79,4 +79,8 @@ Paso 6.- Configuramos la instancia de trabajo, y le damos clic en crear.
 
 Paso 7.- Ir a notebook y crear archivo dentro de la carpeta, esto permite mezclar texto y programación.
 
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso7.png)
+
+Paso 8.- Configuramos el archivo que se creara.
+
 ![]()
