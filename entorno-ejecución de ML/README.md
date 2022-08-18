@@ -86,6 +86,14 @@ Paso 8.- Configuramos el archivo y le damos clic en crear.
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso8.png)
 
 
-- Observamos que se ha creado un archivo de Python.
+Paso 9.- Observamos que se ha creado un archivo de Python.
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso9.png)
+
+
+- Creamos un hola mundo.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso9.1.png)
+
+
+- Para compilar el código, dar clic en las flechas.
