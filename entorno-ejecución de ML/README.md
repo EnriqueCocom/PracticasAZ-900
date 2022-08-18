@@ -97,3 +97,11 @@ Paso 9.- Observamos que se ha creado un archivo de Python.
 
 
 - Para compilar el código, dar clic en las flechas.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso9.2.png)
+
+
+- Se observa en pantalla el hola mundo.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso9.3.png)
+
