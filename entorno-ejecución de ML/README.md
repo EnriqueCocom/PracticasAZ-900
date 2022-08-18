@@ -61,10 +61,22 @@ Paso 4.- Entrar a la página de [Azure Machine Learning](https://ml.azure.com/ho
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso4.1.png)
 
-Paso 5.- Procederemos a crear una instancia de trabajo.
+Paso 5.- Procederemos a crear una instancia de trabajo para hacer procesos de inteligencia artificial.
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso5.png)
 
-Paso 6.-
+Paso 6.- Configuramos la instancia de trabajo, y le damos clic en crear.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso6.png)
+
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso6.1.png)
+
+
+- Una vez se termine de crear, se puede observar que ya se esta ejecutando la instancia.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso6.2.png)
+
+Paso 7.- Ir a notebook y crear archivo dentro de la carpeta, esto permite mezclar texto y programación.
 
 ![]()
