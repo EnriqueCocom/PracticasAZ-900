@@ -105,5 +105,38 @@ Paso 9.- Observamos que se ha creado un archivo de Python.
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso9.3.png)
 
-Paso 10.- Para visualizar el código desde Visual Studio Code.
+Paso 10.- Para visualizar el código desde Visual Studio Code, le damos clic en continuar aqui, nos pedira que iniciemos sesión.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso10.png)
+
+
+- Ahora le damos clic en abrir, nos pedirá que instalemos algunas extensiones, aceptamos.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso10.1.png)
+
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso10.2.png)
+
+
+Paso 11.- Le daremos clic en sí confío en en los autores.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso11.png) 
+
+
+- Observamos el código que escribimos desde la nube.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso11.1.png)
+
+
+Paso 12.- Añadimos más código al archivo.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso12.png)
+
+
+- Compilamos el código.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso12.2.png)
+
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso12.1.png)
 
