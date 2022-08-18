@@ -81,6 +81,11 @@ Paso 7.- Ir a notebook y crear archivo dentro de la carpeta, esto permite mezcla
 
 ![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso7.png)
 
-Paso 8.- Configuramos el archivo que se creara.
+Paso 8.- Configuramos el archivo y le damos clic en crear.
 
-![]()
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso8.png)
+
+
+- Observamos que se ha creado un archivo de Python.
+
+![](https://github.com/EnriqueCocom/PracticasAZ-900/blob/main/entorno-ejecuci%C3%B3n%20de%20ML/imagenes/paso9.png)
